@@ -28,13 +28,13 @@ cd PrometheusAI-Android
 The AI model files (`model.onnx` and `tokenizer.json`) are too large to be included in this repository. You must download them manually and place them in the correct folder for the app to work.
 
 1.  **Download the files** from the link below:
-    👉 **[INSERT YOUR MODEL DOWNLOAD LINK HERE]**
-    *(e.g., Google Drive link containing `model.onnx` and `tokenizer.json`)*
+[tokenizer.json](https://drive.google.com/file/d/1sYVcolegyOXzjnms05VrBqPIl5hOaIHN/view?usp=drive_link)
+[model.onnx](https://drive.google.com/file/d/1ghA5bCvENKlXa__bjSPBhqp5fSal5IWB/view?usp=drive_link)
 
-2.  **Locate the assets folder** in the project directory:
+3.  **Locate the assets folder** in the project directory:
     `app/src/main/assets/`
 
-3.  **Move the downloaded files** into that folder.
+4.  **Move the downloaded files** into that folder.
     *   Ensure the file names are exactly `model.onnx` and `tokenizer.json`.
     *   The final path should look like: 
         *   `.../PrometheusAI-Android/app/src/main/assets/model.onnx`
@@ -72,5 +72,9 @@ Want to make it your own?
 - **Build Failed (OOM Error)**: If the build fails due to memory, try increasing the heap size in `gradle.properties`.
 - **App Crashes on Start**: Ensure you have successfully placed `model.onnx` and `tokenizer.json` in the `assets` folder. The app cannot run without them.
 
+- [PrometheusAI APK]([https://drive.google.com/file/d/1ghA5bCvENKlXa__bjSPBhqp5fSal5IWB/view?usp=drive_link](https://drive.google.com/file/d/1ElTjFRNZVgJEdiwbOcX_4HYhWzHp_YoH/view?usp=drive_link))
+
 ---
 *Built with ❤️ by [Samir Sengupta](https://github.com/SamirSengupta)*
+
+
