@@ -72,7 +72,7 @@ Want to make it your own?
 - **Build Failed (OOM Error)**: If the build fails due to memory, try increasing the heap size in `gradle.properties`.
 - **App Crashes on Start**: Ensure you have successfully placed `model.onnx` and `tokenizer.json` in the `assets` folder. The app cannot run without them.
 
-- [PrometheusAI APK]([https://drive.google.com/file/d/1ghA5bCvENKlXa__bjSPBhqp5fSal5IWB/view?usp=drive_link](https://drive.google.com/file/d/1ElTjFRNZVgJEdiwbOcX_4HYhWzHp_YoH/view?usp=drive_link))
+- [PrometheusAI APK](https://drive.google.com/file/d/1ElTjFRNZVgJEdiwbOcX_4HYhWzHp_YoH/view?usp=drive_link)
 
 ---
 *Built with ❤️ by [Samir Sengupta](https://github.com/SamirSengupta)*
