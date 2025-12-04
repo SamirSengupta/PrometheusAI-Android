@@ -73,6 +73,8 @@ Want to make it your own?
 - **App Crashes on Start**: Ensure you have successfully placed `model.onnx` and `tokenizer.json` in the `assets` folder. The app cannot run without them.
 
 - [PrometheusAI APK](https://drive.google.com/file/d/1ElTjFRNZVgJEdiwbOcX_4HYhWzHp_YoH/view?usp=drive_link)
+- [PrometheusAI APK In Case Above Link Not Working](https://drive.google.com/file/d/1334X7fZtWuXq55CtRQAOyr6mw88xqLEA/view?usp=drive_link)
+
 
 ---
 *Built with ❤️ by [Samir Sengupta](https://github.com/SamirSengupta)*
